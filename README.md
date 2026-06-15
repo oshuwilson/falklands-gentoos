@@ -49,13 +49,14 @@ This repository contains the code used for the analyses. Tracking data are avail
 
 If you use this code, please cite:
 
-**Handley, J.M. et al.** *Multi-colony tracking of a marine central place forager reveals a site specific yet broadly consistent foraging strategy.* [Marine Biology], [2026].
+**Handley, J.M. et al. (2026)** *Multi-colony tracking of a marine central place forager reveals a site specific yet broadly consistent foraging strategy.*, [add JOURNAL NAME, ISSUE, AND PAGES]
 
 DOI: *[Placeholder]*
 
 ## Authors
 
 **Jonathan Handley**
+
 **Joshua Wilson**
 
 For questions regarding the analyses or code, please contact Joshua Wilson directly.
