@@ -20,7 +20,7 @@ The repository includes scripts for:
 
 **Article:** *Multi-colony tracking of a marine central place forager reveals a site specific yet broadly consistent foraging strategy*
 
-📄 **Publication link:** *[Placeholder – add DOI or journal URL upon publication]*
+**Publication link:** *[Placeholder – add DOI or journal URL upon publication]*
 
 ## Repository Structure
 
